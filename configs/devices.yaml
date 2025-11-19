@@ -11,3 +11,9 @@ devices:
   - name: Router-3
     ip: 10.0.0.3
     vendor: Juniper
+
+  - name: Router-4
+    ip: 10.0.0.4
+    vendor: MikroTik
+
+
