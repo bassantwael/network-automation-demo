@@ -1,0 +1,10 @@
+version: "1.0"
+devices:
+  - name: Router-1
+    ip: 10.0.0.1
+    vendor: Cisco
+
+  - name: Router-2
+    ip: 10.0.0.2
+    vendor: Huawei
+
