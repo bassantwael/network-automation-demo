@@ -8,3 +8,6 @@ devices:
     ip: 10.0.0.2
     vendor: Huawei
 
+  - name: Router-3
+    ip: 10.0.0.3
+    vendor: Juniper
